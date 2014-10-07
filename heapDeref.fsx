@@ -6,4 +6,4 @@ let totalValues list =
 let list = [1; 2; 3; 4; 5; 6]
 
 let total = list |> totalValues
-printfn "Total is %d" total
+printfn "Total is %d" total //Total is 21
